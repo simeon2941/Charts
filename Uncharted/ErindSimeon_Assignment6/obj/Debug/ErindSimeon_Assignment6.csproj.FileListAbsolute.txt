@@ -1,0 +1,14 @@
+C:\Users\SimeonPc\Desktop\Spring2021\CSCI-473-Net Programming\ErindSimeon_Assignment6\ErindSimeon_Assignment6\bin\Debug\ErindSimeon_Assignment6.exe.config
+C:\Users\SimeonPc\Desktop\Spring2021\CSCI-473-Net Programming\ErindSimeon_Assignment6\ErindSimeon_Assignment6\bin\Debug\ErindSimeon_Assignment6.exe
+C:\Users\SimeonPc\Desktop\Spring2021\CSCI-473-Net Programming\ErindSimeon_Assignment6\ErindSimeon_Assignment6\bin\Debug\ErindSimeon_Assignment6.pdb
+C:\Users\SimeonPc\Desktop\Spring2021\CSCI-473-Net Programming\ErindSimeon_Assignment6\ErindSimeon_Assignment6\obj\Debug\ErindSimeon_Assignment6.csprojAssemblyReference.cache
+C:\Users\SimeonPc\Desktop\Spring2021\CSCI-473-Net Programming\ErindSimeon_Assignment6\ErindSimeon_Assignment6\obj\Debug\ErindSimeon_Assignment6.Properties.Resources.resources
+C:\Users\SimeonPc\Desktop\Spring2021\CSCI-473-Net Programming\ErindSimeon_Assignment6\ErindSimeon_Assignment6\obj\Debug\ErindSimeon_Assignment6.csproj.GenerateResource.cache
+C:\Users\SimeonPc\Desktop\Spring2021\CSCI-473-Net Programming\ErindSimeon_Assignment6\ErindSimeon_Assignment6\obj\Debug\ErindSimeon_Assignment6.csproj.CoreCompileInputs.cache
+C:\Users\SimeonPc\Desktop\Spring2021\CSCI-473-Net Programming\ErindSimeon_Assignment6\ErindSimeon_Assignment6\obj\Debug\ErindSimeon_Assignment6.exe
+C:\Users\SimeonPc\Desktop\Spring2021\CSCI-473-Net Programming\ErindSimeon_Assignment6\ErindSimeon_Assignment6\obj\Debug\ErindSimeon_Assignment6.pdb
+C:\Users\SimeonPc\Desktop\Spring2021\CSCI-473-Net Programming\ErindSimeon_Assignment6\ErindSimeon_Assignment6\obj\Debug\ErindSimeon_Assignment6.Form1.resources
+C:\Users\SimeonPc\Desktop\Spring2021\CSCI-473-Net Programming\ErindSimeon_Assignment6\ErindSimeon_Assignment6\obj\Debug\ErindSimeon_Assignment6.Form2.resources
+C:\Users\SimeonPc\Desktop\Spring2021\CSCI-473-Net Programming\ErindSimeon_Assignment6\ErindSimeon_Assignment6\obj\Debug\ErindSimeon_Assignment6.Form3.resources
+C:\Users\SimeonPc\Desktop\Spring2021\CSCI-473-Net Programming\ErindSimeon_Assignment6\ErindSimeon_Assignment6\obj\Debug\ErindSimeon_Assignment6.Form4.resources
+C:\Users\SimeonPc\Desktop\Spring2021\CSCI-473-Net Programming\ErindSimeon_Assignment6\ErindSimeon_Assignment6\obj\Debug\ErindSimeon_Assignment6.Form5.resources
